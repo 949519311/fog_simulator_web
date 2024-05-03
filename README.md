@@ -1,4 +1,4 @@
-**Init Web fogsimulator**  
+##**Init Web fogsimulator**  
 
 - npm install —force
 - npm run start
